@@ -1,2 +1,11 @@
-# WEEK_3_SYSTEMS
-Week 3 task submissions for CSOC'23 Systems track.
+# CSOC Systems Week 3
+
+## Steps to Contribute
+
+-   Fork the project to your GitHub account
+-   Clone it in your system i.e. Linux/Windows
+-   Create a new branch for you to work on
+-   When done adding your files, commit your work locally and push it to the origin
+-   Make a pull request to the upstream (this repo)
+-   Wait for us to merge your PR :man_technologist:
+
